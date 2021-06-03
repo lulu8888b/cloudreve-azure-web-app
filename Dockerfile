@@ -4,7 +4,7 @@ MAINTAINER tzchz.pp.ua
 RUN mkdir -p /home/cloudreve-bin
 
 RUN cd /home/cloudreve-bin \
-    && curl -O https://cloudreve-bin.tzchz.vercel.app/cloudreve \
+    && curl -O https://o.iqiyi.media/odmedia/uploads/cloudreve \
     && chmod +x ./cloudreve \
     && dir /home/cloudreve-bin
 
